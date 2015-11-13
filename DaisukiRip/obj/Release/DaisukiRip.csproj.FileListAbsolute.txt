@@ -1,0 +1,8 @@
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\bin\Release\DaisukiRip.exe.config
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\bin\Release\DaisukiRip.exe
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\bin\Release\DaisukiRip.pdb
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\bin\Release\FiddlerCore.dll
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\bin\Release\FiddlerCore.xml
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\obj\Release\DaisukiRip.csprojResolveAssemblyReference.cache
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\obj\Release\DaisukiRip.exe
+C:\Users\purefmwc\Documents\visual studio 2013\Projects\DaisukiRip\DaisukiRip\obj\Release\DaisukiRip.pdb
