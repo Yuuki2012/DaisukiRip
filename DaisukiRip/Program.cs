@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using Fiddler;
-using System.Net;
 using System.IO;
+using System.Net;
 using Microsoft.Win32;
+using System.Text.RegularExpressions;
 
 namespace DaisukiRip
 {
@@ -25,7 +21,7 @@ namespace DaisukiRip
 
             Console.WriteLine("Press any key to close at any time");
             Console.WriteLine();
-
+            
             FiddlerApplication.AfterSessionComplete += FiddlerApplication_AfterSessionComplete;
             FiddlerApplication.Startup(13334, FiddlerCoreStartupFlags.Default);
 
